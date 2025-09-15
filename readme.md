@@ -7,7 +7,7 @@
 ## 装机软件列表
 ### 基本软件
 * [Chrome](https://www.google.com/intl/zh-CN/chrome/)
-* [CFW: Clash for Windows]()
+* [CFW: Clash for Windows](https://download3.gwlink.best/clash/Clash.for.Windows.Setup.0.20.21.exe)
 * [QQ]()
 * [WeChat]()
 * [Netease Music v2.10]()
