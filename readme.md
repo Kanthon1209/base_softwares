@@ -18,7 +18,7 @@
 * [logi Options]()
 
 ### 工具
-* [Bandizip](https://www.bandisoft.com/bandizip/)
+* [Bandizip 6.29](https://www.bandisoft.com/bandizip/dl.php?old)
 * [SpaceSniffer](https://www.uderzo.it/main_products/space_sniffer/index.html)
 * [OBS]()
 * [PortPlayer]()
