@@ -22,7 +22,7 @@
 * [Bandizip 6.29](https://www.bandisoft.com/bandizip/dl.php?old)
 * [SpaceSniffer](https://www.uderzo.it/main_products/space_sniffer/index.html)
 * [OBS]()
-* [PortPlayer]()
+* [PortPlayer 64bit](https://t1.daumcdn.net/potplayer/PotPlayer/Version/Latest/PotPlayerSetup64.exe)
 * [QBtorrent]()
 
 ### 生产
