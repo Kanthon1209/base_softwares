@@ -12,6 +12,7 @@
 * [WeChat]()
 * [Netease Music v2.10]()
 * [PortPlayer]()
+* [youdao fanyi](https://fanyi.youdao.com/download-history)
   
 ### 设备
 * [LG Hub]()
